@@ -23,8 +23,4 @@ meta
 input
 textarea
 
-
-this is examples of html tags:
-<h1>
-</p>
-<a>
+meta tags : https://codepen.io/behshad/pen/EdMqbe
