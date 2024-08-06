@@ -22,3 +22,9 @@ script
 meta
 input
 textarea
+
+
+this is examples of html tags:
+<h1>
+</p>
+<a>
